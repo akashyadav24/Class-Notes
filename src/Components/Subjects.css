@@ -1,0 +1,50 @@
+.Subject-div
+{
+    background-color: rgb(134, 124, 124);
+    color: rgb(255, 208, 164);
+    font-size: large;
+}
+
+.Subject-list{
+    padding: 20px;
+}
+
+
+.Subject-list li
+{
+    list-style-type: none;
+    padding: 20px;
+    margin: 10px;
+}
+
+.Subjects-name
+{
+    text-decoration: none;
+    color:blanchedalmond
+}
+
+.Subjects-name:hover
+{
+    color:rgb(255, 179, 65)
+}
+
+#add-more-input
+{
+    width: 150px;
+    padding: 10px;
+    border: 1px solid wheat;
+    border-radius: 20px 0px 0px 20px;
+    margin-bottom: 10px;
+}
+
+
+#add-more-button
+{
+    width: 50px;
+    padding: 10px;
+    background-color: tomato;
+    color: whitesmoke;
+    border: 1px solid rgb(255, 92, 92);
+    border-radius: 0px 20px 20px 0px;
+
+}
